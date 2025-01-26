@@ -29,10 +29,10 @@
     {
         "question": "In infinite hollow cylinder heat flow is given by",
         "qid": 4,
-        "option_a": "$$ q = \\frac{2\\pi LK (T_1 + T_2)}{ln((r_2/r_1)} $$",
-        "option_b": "$$ q = \\frac{2\\pi LK (T_1 - T_2)}{ln((r_2/r_1)} $$",
-        "option_c": "$$ q = \\frac{2\\pi LK (T_2 + T_1)}{ln((r_2/r_1)} $$",
-        "option_d": "$$ q = \\frac{2\\pi LK (T_2 - T_1 )}{ln((r_2/r_1)} $$",
+        "option_a": "$$ q = \\frac{2\\pi LK (T_1 + T_2)}{ln(r_2/r_1)} $$",
+        "option_b": "$$ q = \\frac{2\\pi LK (T_1 - T_2)}{ln(r_2/r_1)} $$",
+        "option_c": "$$ q = \\frac{2\\pi LK (T_2 + T_1)}{ln(r_2/r_1)} $$",
+        "option_d": "$$ q = \\frac{2\\pi LK (T_2 - T_1 )}{ln(r_2/r_1)} $$",
         "correct_option": "b"
     },
     {
