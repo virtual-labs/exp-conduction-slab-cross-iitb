@@ -1,0 +1,51 @@
+// ===== Activity 1 ===== //
+let S1_cm_a1 = 2;
+let S2_cm_a1 = 7;
+let L_cm_a1 = 40;
+let x_cm_a1 = 20;
+let S1_m_a1 = S1_cm_a1 / 100;
+let S2_m_a1 = S2_cm_a1 / 100;
+let L_m_a1 = L_cm_a1 / 100;
+let x_m_a1 = x_cm_a1 / 100;
+let T1_a1 = 500;
+let T2_a1 = 100;
+let K_a1 = 52;
+let Sg_a1;
+let Q_a1;
+let Tx_a1;
+// ===== Activity 2 ===== //
+let h1_cm_a2 = 5;
+let w1_cm_a2 = 2;
+let h1_m_a2 = h1_cm_a2 / 100;
+let w1_m_a2 = w1_cm_a2 / 100;
+let T1_a2 = 400;
+let h2_cm_a2 = 2;
+let h2_m_a2 = h2_cm_a2 / 100;
+let w2_cm_a2 = 2;
+let w2_m_a2 = w2_cm_a2 / 100;
+let T2_a2 = 100;
+let L_cm_a2 = 30;
+let L_m_a2 = L_cm_a2 / 100;
+let x_cm_a2 = 20;
+let x_m_a2 = x_cm_a2 / 100;
+let K_a2 = 20;
+let A1_a2;
+let A2_a2;
+let Ag_a2;
+let Q_a2;
+let Ax_a2;
+let Tx_a2;
+// ===== Activity 3 ===== //
+let x1_mm_a3 = 25;
+let x2_mm_a3 = 125;
+let x_mm_a3 = 50;
+let x1_m_a3 = x1_mm_a3 / 1000;
+let x2_m_a3 = x2_mm_a3 / 1000;
+let x_m_a3 = x_mm_a3 / 1000;
+// let D_a3 = 0.5 * Math.sqrt(x1_m_a3);
+let T1_a3 = 400;
+let T2_a3 = 100;
+let K_a3 = 237;
+let Q_a3;
+let Tx_a3;
+//# sourceMappingURL=data.js.map
