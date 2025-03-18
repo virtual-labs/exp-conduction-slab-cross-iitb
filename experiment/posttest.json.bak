@@ -1,0 +1,21 @@
+[
+    {
+        "question": "The heat is conducted through tapered conical rod. The left end is located at x1 = 25mm and right end is located at x2 = 125mm. The diameter varies as $$ D = 0.5\\sqrt{x} $$ The left end is at temperature 376°C and right end is at temperature 100°C. Take K = 237W/m-K. Find the heat transfer.",
+        "qid": 1,
+        "option_a": "7334.001 W",
+        "option_b": "7965.981 W",
+        "option_c": "7991.467 W",
+        "option_d": "7812.996 W",
+        "correct_option": "b"
+    },
+
+    {
+        "question": "Heat is conducted through a uniform square section tapered rod. Left end side is 1.5cm & right end side is 7cm. Then left end side is at temperature 464°C & right end side is at temperature 100°C. The conductivity of material is 52W/m-K. Find the heat transfer if the length of the rod is 43cm.",
+        "qid": 2,
+        "option_a": "45.10 W",
+        "option_b": "44.43 W",
+        "option_c": "46.22 W",
+        "option_d": "43.02 W",
+        "correct_option": "c"
+    }
+]
